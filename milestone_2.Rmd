@@ -1,0 +1,20 @@
+---
+title: "milestone_2"
+author: "Johnny Kauffman"
+date: "9/21/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Max George Vumbaca: A look at demographic shifts and trends in Cambridge's homeless community across time, compared to other cities, and according to living situation 
+
+A significant problem with this project is the lack of information about the source of the data and how it was collected. That makes the findings hard to interpret in a meaningful way. In the time catagory, When the data is broken down by gender, I think the bar graph is helpful way to present it. The dispartity between women and men who are experiencing homeless is clear. However, the same technique is not helpful in the time-race category, because the overall racial demographics in Cambridge are not included. What are we supposed to make the of the racial breakdown without seeing the cities demographics for people with homes and people without? I don't think the place tab works well because so few cities are included in the data. The map doesn't say much. In the situation catagory, under the gender tab, the bar graph seems to work well, and raises questions about why genders are equally represented in "transitional housing." 
+
+# Debora Gonzalez: The Sunshine State Turns Purple On Election Day
+
+The detail in the about page for this project is great. I appreciate the explaination for how the visualizations should be read. In the section "Florida by County: Political Allegiance & Demographics," the map in the vizualization section is very small at first, until you figure out how to zoom in. The feature in "Political Allegiance over Time" that allows adjusting the length of timem shown in the chart would be helpful if you were, say researching a specific period. The table isn't helpful because it isn't labeled by a particular year. I presume it's the most recent information, but that's not clear. 
+
